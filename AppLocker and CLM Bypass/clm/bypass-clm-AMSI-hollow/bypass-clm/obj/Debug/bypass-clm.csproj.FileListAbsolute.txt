@@ -1,0 +1,8 @@
+C:\Users\23054\Downloads\Compressed\clm\bypass-clm-AMSI-hollow\bypass-clm\bin\Debug\bypass-clm.exe.config
+C:\Users\23054\Downloads\Compressed\clm\bypass-clm-AMSI-hollow\bypass-clm\bin\Debug\bypass-clm.exe
+C:\Users\23054\Downloads\Compressed\clm\bypass-clm-AMSI-hollow\bypass-clm\bin\Debug\bypass-clm.pdb
+C:\Users\23054\Downloads\Compressed\clm\bypass-clm-AMSI-hollow\bypass-clm\obj\Debug\bypass-clm.csproj.AssemblyReference.cache
+C:\Users\23054\Downloads\Compressed\clm\bypass-clm-AMSI-hollow\bypass-clm\obj\Debug\bypass-clm.csproj.SuggestedBindingRedirects.cache
+C:\Users\23054\Downloads\Compressed\clm\bypass-clm-AMSI-hollow\bypass-clm\obj\Debug\bypass-clm.csproj.CoreCompileInputs.cache
+C:\Users\23054\Downloads\Compressed\clm\bypass-clm-AMSI-hollow\bypass-clm\obj\Debug\bypass-clm.exe
+C:\Users\23054\Downloads\Compressed\clm\bypass-clm-AMSI-hollow\bypass-clm\obj\Debug\bypass-clm.pdb
