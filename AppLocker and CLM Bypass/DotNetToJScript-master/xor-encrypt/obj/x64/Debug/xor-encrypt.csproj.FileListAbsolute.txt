@@ -1,0 +1,8 @@
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-encrypt\bin\x64\Debug\xor-encrypt.exe.config
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-encrypt\bin\x64\Debug\xor-encrypt.exe
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-encrypt\bin\x64\Debug\xor-encrypt.pdb
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-encrypt\obj\x64\Debug\xor-encrypt.csproj.AssemblyReference.cache
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-encrypt\obj\x64\Debug\xor-encrypt.csproj.SuggestedBindingRedirects.cache
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-encrypt\obj\x64\Debug\xor-encrypt.csproj.CoreCompileInputs.cache
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-encrypt\obj\x64\Debug\xor-encrypt.exe
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-encrypt\obj\x64\Debug\xor-encrypt.pdb

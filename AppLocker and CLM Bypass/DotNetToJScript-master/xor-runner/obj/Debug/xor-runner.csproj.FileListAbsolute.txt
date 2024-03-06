@@ -1,0 +1,8 @@
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-runner\bin\Debug\xor-runner.exe.config
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-runner\bin\Debug\xor-runner.exe
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-runner\bin\Debug\xor-runner.pdb
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-runner\obj\Debug\xor-runner.csproj.AssemblyReference.cache
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-runner\obj\Debug\xor-runner.csproj.SuggestedBindingRedirects.cache
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-runner\obj\Debug\xor-runner.csproj.CoreCompileInputs.cache
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-runner\obj\Debug\xor-runner.exe
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\xor-runner\obj\Debug\xor-runner.pdb

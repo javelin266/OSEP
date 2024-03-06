@@ -1,0 +1,10 @@
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\DotNetToJScript\bin\x64\Debug\DotNetToJScript.exe
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\DotNetToJScript\bin\x64\Debug\DotNetToJScript.pdb
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\DotNetToJScript\bin\x64\Debug\NDesk.Options.dll
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\DotNetToJScript\obj\x64\Debug\DotNetToJScript.csproj.AssemblyReference.cache
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\DotNetToJScript\obj\x64\Debug\DotNetToJScript.Properties.Resources.resources
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\DotNetToJScript\obj\x64\Debug\DotNetToJScript.csproj.GenerateResource.cache
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\DotNetToJScript\obj\x64\Debug\DotNetToJScript.csproj.CoreCompileInputs.cache
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\DotNetToJScript\obj\x64\Debug\DotNetToJScript.csproj.CopyComplete
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\DotNetToJScript\obj\x64\Debug\DotNetToJScript.exe
+C:\Users\23054\Downloads\Compressed\DotNetToJScript-master\DotNetToJScript\obj\x64\Debug\DotNetToJScript.pdb
